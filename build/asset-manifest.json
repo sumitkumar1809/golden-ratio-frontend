@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8eb20739.css",
+    "main.js": "/static/js/main.37be13db.js",
+    "static/media/TeamBanner.png": "/static/media/TeamBanner.4ec913ae1b03f446bd4a.png",
+    "static/media/FD.ttf": "/static/media/FD.057acc29fa3322769516.ttf",
+    "static/media/4.png": "/static/media/4.9d0830c40cfdc1ca504c.png",
+    "static/media/3.png": "/static/media/3.72fdb2a65dc37da91093.png",
+    "static/media/1.png": "/static/media/1.fedb049c75768fdbfbbc.png",
+    "static/media/2.png": "/static/media/2.6a58837b4bb54c2dd141.png",
+    "static/media/historyImage.png": "/static/media/historyImage.9b4699ab517a833bbee2.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.0ae5e49cee6b05b2959a.png",
+    "static/media/web.svg": "/static/media/web.d1664b4fcc81214bebaba1dc5e01d952.svg",
+    "static/media/location.svg": "/static/media/location.65bfe6d218aa7b07a4dfd890a3858aec.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.7e76cd48afd482a2079e269e089022a0.svg",
+    "static/media/email.svg": "/static/media/email.b287239524866292c709031af9d820da.svg",
+    "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
+    "main.37be13db.js.map": "/static/js/main.37be13db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb20739.css",
+    "static/js/main.37be13db.js"
+  ]
+}
